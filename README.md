@@ -96,3 +96,11 @@ git clone https://github.com/Navodya-tech/Project_Order_Management_System_With_E
 ![Finance](screenshots/finance.png)
 ![Customer Interface](screenshots/payroll_management.png)
 
+---
+
+**📝 License**  
+
+This project is open-source for **educational purposes only**.  
+You are free to use it to **learn, explore, or improve your skills**, but **commercial use, distribution, or selling is not allowed** without permission from the original author.
+
+---
