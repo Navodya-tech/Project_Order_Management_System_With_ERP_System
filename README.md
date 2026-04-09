@@ -83,6 +83,16 @@ git clone https://github.com/Navodya-tech/Project_Order_Management_System_With_E
 ## 📸 Screenshots
 📸 Screenshots:
 
-![Dashboard](screenshots/dashboard.png)
-![Customer Interface](screenshots/customer_interface.png)
-![Inventory Module](screenshots/inventory_module.png)
+![customer Signin](screenshots/customer_signIn.png)
+![Dining](screenshots/customer_dinning.png)
+![Menu](screenshots/customer_dinning_menu.png)
+![Admin](screenshots/admin_signin.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
+![HR](screenshots/hr_dashboard.png)
+![Employee Manage](screenshots/manage_employee.png)
+![Kitchen](screenshots/kitchen_dashboard.png)
+![Stock](screenshots/stock_dashboard.png)
+![Add Food](screenshots/add_food.png)
+![Finance](screenshots/finance.png)
+![Customer Interface](screenshots/payroll_management.png)
+
