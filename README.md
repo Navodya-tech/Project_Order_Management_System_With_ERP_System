@@ -56,9 +56,7 @@ Both **customers** and **staff** can interact with the system for their respecti
 ## 📥 How to Run
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/Navodya-tech/Project_Order_Management_System_With_ERP_System/edit/main/README.md.git
-```
+https://github.com/Navodya-tech/Project_Order_Management_System_With_ERP_System.git
 
 2. Import the database
 - Open HeidiSQL or MySQL Workbench
